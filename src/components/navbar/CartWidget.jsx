@@ -1,5 +1,3 @@
-
-
 function NavBar() {
     return <>
            
@@ -7,7 +5,5 @@ function NavBar() {
             <CartWidget />
     </>;
 }
-
-
 
 export default CartWidget;
